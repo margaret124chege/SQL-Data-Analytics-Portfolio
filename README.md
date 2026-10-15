@@ -14,6 +14,10 @@ using SQL Server and SQL Server Management Studio (SSMS).
 The objective was to analyze product performance, sales volume, revenue,
 and sales trends to answer common business questions.
 
+### View My SQL Project
+
+[View AdventureWorks Sales Analysis SQL Code](AdventureWorks_Sales_Analysis.sql)
+
 ### Business Questions
 
 1. Which products are priced above $1,000?
